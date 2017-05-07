@@ -4,6 +4,8 @@ Testing #ESP32 with 8825 StepperDriver library (ID:1272 #PlatformIO) on Nema 17H
 
 ## Libraries dependencies install
 
+Before please install [PlatformIO framework](http://platformio.org/) (Open source ecosystem for IoT development)
+
 ``` javascript
 platformio lib install 1272
 ```
